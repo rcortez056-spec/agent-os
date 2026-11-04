@@ -15,3 +15,4 @@ Agent OS is a multi-agent workflow engine that integrates AI agents directly int
 1. Clone the repository:
    ```bash
    git clone https://github.com/rcortez056-spec/agent-os.git
+npm run start
