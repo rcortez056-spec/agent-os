@@ -8,7 +8,7 @@ Agent OS is a multi-agent workflow engine that integrates AI agents directly int
 * **Communication Platform**: Integrated with team messaging environments (Slack / Discord / Teams).
 * **Workflow**: Automated incident reporting, triage routing, and real-time execution loops.
 ## Hackathon Tracks Addressed
-* **Best Business Workflow**: Automates team communications and error triage inside standard messaging environments (Slack/Teams/Discord)[cite: 8].
+* **Best Business Workflow**: Automates team communications and error triage inside standard messaging environments (Slack/Teams/Discord).
 * **Best Personal or Creative Workflow**: Transforms rigid developer logs into interactive, conversational agent rooms where teammates interact naturally.
 * **Best Core Contribution**: Open-source infrastructure establishing a standardized agent protocol for server-sent events and HTTP communication.
 ## How to Run It
